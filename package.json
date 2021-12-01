@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://asafmo2810.github.io/LearnReact",
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.1",
